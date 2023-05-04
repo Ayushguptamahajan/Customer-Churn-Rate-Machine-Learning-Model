@@ -1,5 +1,7 @@
 # Customer-Churn-Rate-Machine-Learning-Model
-Churn prediction is predicting which customers are at high risk of leaving your company or canceling a subscription to a service, based on their behavior with your product.It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones.
+
+Churn prediction is predicting which customers are at high risk of leaving your company or canceling a subscription to a service, based on their behavior with your product. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones. So self has created one a Machine learning program to provide valuable insights of 
+the customer churning data available through EDA and further build a model to predict whether a customer will churn or not based upon the inputs (if the condition of given data pretains).
 
 **The summary of the steps executed in ML model are:**
 
